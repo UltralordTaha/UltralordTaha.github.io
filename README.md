@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# App-Landing_Page
 
-You can use the [editor on GitHub](https://github.com/UltralordTaha/UltralordTaha.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a clean and modern Free responsive app landing-page template for Mobile App. Built with Bootstrap 4.1.x frontend Framework. The codebase is well organized and very easy to customize. Best suited to present and promote your startup mobile apps in your official website. The overall design is simple and clean, crafted with great assuring pixel perfection, so that the bootstrap based landing-page template can adapt automatically vast array of screen and devices like Desktop, Mobile phone, Iphone, Ipad, feature phone and Google android powered devices. So, grab the template, add easy allowing customization, and go live.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Download and Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Clone the repo:https://github.com/robinbansal/App-Landing-Page.git
+- [Fork, Clone, or Download on GitHub](https://github.com/robinbansal/App-Landing-Page)
 
-```markdown
-Syntax highlighted code block
+## Live Preview
+  [View Live Preview](https://robinbansal.github.io/App-Landing_Page/)
+## App-Landing-Page Template
 
-# Header 1
-## Header 2
-### Header 3
+  ![2018-04-28](https://user-images.githubusercontent.com/26331958/39387011-eb1a5a4a-4a94-11e8-82a5-0de955b9acc2.png)
 
-- Bulleted
-- List
+  ![2018-04-28 1](https://user-images.githubusercontent.com/26331958/39387057-1e61afb6-4a95-11e8-93cf-5861a7ccb65e.png)
 
-1. Numbered
-2. List
+App landing page is a free, responsive website theme , using the Bootstrap 4 framework and HTML5 layouts, converted from a HTML template, without any 3rd party dependencies.
 
-**Bold** and _Italic_ and `Code` text
+## Responsive Design!
 
-[Link](url) and ![Image](src)
-```
+Change the size and it responds in turn.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![2018-04-28 2](https://user-images.githubusercontent.com/26331958/39387102-64f039e8-4a95-11e8-9a6b-9ddd96f1301f.png)![2018-04-28 3](https://user-images.githubusercontent.com/26331958/39387120-7f6a8738-4a95-11e8-8d7d-557ae6b90299.png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UltralordTaha/UltralordTaha.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Features
+- Fully Responsive
+- HTML5 + CSS3
+- Built on Bootstrap 4
+- LESS files included
+- Compatible with all modern browsers
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Bugs and Issues
+ Have a bug or an issue with this template?[Open a new issue](https://github.com/robinbansal/App-Landing-Page/issues/new) here on Github.
+ 
+## Features
+
+ - Responsive design
+ - High overall quality
+ - Animated testimonials
+ - Reveals Animation when scrolling
+ - Contact Box
+ 
+ ## License
+ 
+   MIT License
+
+Copyright (c) 2018 Robin Bansal
+ 
+ 
+ 
